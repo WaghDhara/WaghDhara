@@ -36,9 +36,6 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
----
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waghdhara&theme=tokyonight" alt="GitHub Streak" />
